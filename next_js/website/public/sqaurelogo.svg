@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64.001" viewBox="0 0 64 64.001">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.043" y1="0.042" x2="0.946" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4d29cf"/>
+      <stop offset="1" stop-color="#b32a90"/>
+    </linearGradient>
+  </defs>
+  <path id="chart_layouts_grids_icon" d="M39.829,64a2,2,0,0,1,0-4H60.945a2,2,0,0,1,0,4ZM3.677,60.322A12.558,12.558,0,0,1,21.438,42.564,12.558,12.558,0,0,1,3.677,60.322ZM4,51.443a8.556,8.556,0,1,0,8.555-8.558A8.567,8.567,0,0,0,4,51.443Zm35.828,2a2,2,0,0,1,0-4H60.945a2,2,0,0,1,0,4Zm0-12.52a2,2,0,0,1,0-4H60.945a2,2,0,0,1,0,4Zm-1.056-13.7a2,2,0,0,1-1.786-2.895L48.6,1.106a2,2,0,0,1,3.577,0L63.79,24.332A2,2,0,0,1,62,27.226Zm3.237-4H58.765L50.388,6.472ZM2,27.226a2,2,0,0,1-2-2V4.112a2,2,0,0,1,2-2H23.114a2,2,0,0,1,2,2V25.226a2,2,0,0,1-2,2Zm2-4H21.113V6.112H4Z" fill="url(#linear-gradient)"/>
+</svg>
